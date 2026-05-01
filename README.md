@@ -1,0 +1,2 @@
+# Mis proyectos en Python
+Este proyecto se realiza con el fin de tener una guía de uso de diferentes algoritmos desarrollados en Python, con ejercicios que estan alojados en **Restos de programación** por **MauroDev** link de la página: ´https://retosdeprogramacion.com/´
